@@ -1,9 +1,7 @@
 package Ex3;
 
 public class Ex3 {
-    
-    private int num1;
-    private int num2;
+      
     
     public static void swap(int num1, int num2) {
         int num3;

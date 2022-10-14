@@ -11,7 +11,7 @@ public class Ex3Test {
         int num1 = sc.nextInt();
         System.out.println("Digite o segundo número:");
         int num2 = sc.nextInt();
-        
+        sc.close();
         
         
         
