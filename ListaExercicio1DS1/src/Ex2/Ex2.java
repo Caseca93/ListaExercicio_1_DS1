@@ -15,7 +15,7 @@ public class Ex2 {
     }
     
     public static void calcularRaizQuadrada(double num, double num2) {
-        System.out.println("Raiza Quadrada NúmeroUm: " +  (int) Math.sqrt(num));
+        System.out.println("Raiz Quadrada NúmeroUm: " +  (int) Math.sqrt(num));
         System.out.println("Raiz Quadrada NúmeroDois: " + (int) Math.sqrt(num2));
     }
 }
